@@ -149,10 +149,10 @@ git push origin main
 
 ---
 
-## Mentors
-- Boda Prabanjan Jadav  
+## Mento
 - Abhinav V  
-- Shaik Suraj  
+- Shaik Suraj
+- Boda Prabanjan Jadav
 
 ---
 
