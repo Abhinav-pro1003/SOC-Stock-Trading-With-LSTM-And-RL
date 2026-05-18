@@ -1,9 +1,3 @@
-## Week-1 Assignments
-
-1.NumPy assignment: You will be given a series of tasks to complete in the NumPy_Assignment.py file. Each task will involve using Numpy functions to perform specific operations on the given data. Read the comments in the script for instructions on each task.  
-2.Matplotlib and pandas: You are given three exercises which will warmup you plotting skills.  
-3.Gradient descent:In this task, you are given a mathematical function, and your goal is to find its minimum using the gradient descent optimization algorithm. Gradient descent is an iterative optimization algorithm commonly used for finding the minimum of a function.  
-
 ## Week-1 Resources
 
 ## Python Basics
