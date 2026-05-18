@@ -1,5 +1,7 @@
  ## Week-1 Assignment
 Go through each of the .ipynb files in the directory and write your code between the <start> and <end> markers. Once completed, push your changes to your forked repository.
+In this assignment, you will work with the AAPL.csv dataset to practice data inspection, summary statistics, and data visualization using Pandas and Matplotlib.
+The dataset contains historical stock market data for Apple Inc. (AAPL) and will be used throughout the assignment to explore data analysis and plotting techniques in Python.
 ## Week-1 Resources
 
 ## Python Basics
