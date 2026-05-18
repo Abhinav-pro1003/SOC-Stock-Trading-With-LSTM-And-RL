@@ -24,8 +24,8 @@ Over 7 weeks, we’ll go from Python basics and technical analysis to implementi
 ### Week 3
 - Introduction to ML libraries
   - PyTorch
-  - TensorFlow
   - Scikit-learn
+- Understanding Neural Networks
 
 ### Week 4
 - Understanding LSTM
