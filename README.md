@@ -16,6 +16,7 @@ Over 7 weeks, we’ll go from Python basics and technical analysis to implementi
 - Matplotlib
 
 ### Week 2
+- Loading Datasets
 - Technical Analysis
 - Technical Indicators
 - Understanding stock market data
@@ -40,6 +41,10 @@ Over 7 weeks, we’ll go from Python basics and technical analysis to implementi
 ### Week 7
 - Final project
 - Experimentation and model evaluation
+
+### Week 8 (If time permits)
+- Building different types of LSTM based on market regimes
+- Miscellaneous
 
 ---
 
