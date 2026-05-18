@@ -1,3 +1,5 @@
+ ## Week-1 Assignment
+Go through each of the .ipynb files in the directory and write your code between the <start> and <end> markers. Once completed, push your changes to your forked repository.
 ## Week-1 Resources
 
 ## Python Basics
