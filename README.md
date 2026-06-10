@@ -154,7 +154,7 @@ git push origin main
 
 ---
 
-## Mentors
+## Mento
 - Abhinav V  
 - Shaik Suraj
 - Boda Prabanjan Jadav
