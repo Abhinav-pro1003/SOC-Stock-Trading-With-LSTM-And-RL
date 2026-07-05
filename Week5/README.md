@@ -14,7 +14,7 @@ benchmark. There is a single notebook this week, and it must be run top to botto
 
 ## Notebook & Pipeline Structure
 
-### `04_rule_based_strategies_ASSIGNMENT.ipynb`
+### `Trading_Strategies.ipynb`
 
 The data loading, model architecture, and backtesting/evaluation engine are already built for
 you. Your job is the trading logic — look for `# TODO:` markers throughout.
